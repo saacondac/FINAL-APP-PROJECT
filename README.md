@@ -48,10 +48,10 @@ Functional Requirements
 
     Usage:
 
-    Add Contacts: Fill in the name, phone number, email, and group (optional), then click "Add" to add a contact.
-    Delete Contacts: Click the "Delete" button next to the contact you want to remove.
-    Search Contacts: Use the search field to filter contacts by name.
-    Manage Groups: Select a contact and use the buttons to add or remove them from a group.
+    1) Add Contacts: Fill in the name, phone number, email, and group (optional), then click "Add" to add a contact.
+    2) Delete Contacts: Click the "Delete" button next to the contact you want to remove.
+    3) Search Contacts: Use the search field to filter contacts by name.
+    4) Manage Groups: Select a contact and use the buttons to add or remove them from a group.
 
     Project Structure:
 
