@@ -7,6 +7,7 @@ MEMBERS:
 -SOLANGE ACONDA
 
 -KHULOOD AL-SELWI
+
 Description:
 The Contact Manager App is an application designed to manage contacts efficiently. 
 It allows users to add, search, and delete contacts, as well as to assign and manage contact groups. 
